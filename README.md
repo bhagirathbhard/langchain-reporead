@@ -1,7 +1,7 @@
 # Repository Reader using Langchain and OpenAI
 
 This repository provides a set of tools and scripts that leverage Langchain and OpenAI to read and analyze the content of a repository.
-
+[Langchain User Docs: Analysis of Twitter the-algorithm source code with LangChain, GPT4, and Deep Lake](https://python.langchain.com/docs/use_cases/code/twitter-the-algorithm-analysis-deeplake)
 ## Prerequisites
 
 Before using this repository reader, make sure you have the following prerequisites:
