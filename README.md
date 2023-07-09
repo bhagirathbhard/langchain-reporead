@@ -37,3 +37,9 @@ Before using this repository reader, make sure you have the following prerequisi
     poetry shell
 
 This step is necessary to ensure that the repository reader scripts and tools are executed within the Poetry environment.
+
+4. Create a `questions.txt` file and `answers` folder in the root directory of the repo
+
+5. Paste all relevant questions into the `questions.txt` file `,` separated
+
+6. Run the `analyze_repository.ipynb` file.
