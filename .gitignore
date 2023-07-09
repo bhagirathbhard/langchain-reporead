@@ -1,4 +1,7 @@
 .DS_Store
+answers/
+repo/
+questions.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
