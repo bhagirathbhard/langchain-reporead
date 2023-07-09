@@ -20,11 +20,11 @@ Before using this repository reader, make sure you have the following prerequisi
 
 2. Install dependencies through poetry
 
-    '''bash
+    ```bash
     poetry install
 
 3. Activate poetry shell
-    '''bash
+    ```bash
     poetry shell
 
 This step is necessary to ensure that the repository reader scripts and tools are executed within the Poetry environment.
