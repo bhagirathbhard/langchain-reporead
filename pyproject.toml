@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "langchain-reporead"
+version = "0.1.0"
+description = "Use Langchain to read Github Repos"
+authors = ["Bhagirath Bhardwaj <bhagirathbhard@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "langchain_reporead"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.0.228"
+requests = "^2.31.0"
+openai = "^0.27.8"
+deeplake = "^3.6.8"
+tiktoken = "^0.4.0"
+ipykernel = "^6.24.0"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,12 @@
+keys.py
+*.ipynb
+__pycache__
+.ipynb_checkpoints
+venv
+venv2
+venv3
+src/keys.py
+.idea
+docs/_build
+docs/_static
+docs/_templates

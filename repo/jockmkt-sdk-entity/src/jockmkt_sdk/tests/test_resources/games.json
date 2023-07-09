@@ -1,0 +1,678 @@
+ {
+  "status": "success",
+ "start": 3000,
+ "limit": 10,
+ "count": 5215,
+ "games": [{
+  "id": "game_62388e4f2cdd79bd8f73f808dde41b76",
+   "object": "game",
+   "name": "Tigers at Royals",
+   "league": "mlb",
+   "scheduled_start": 1650139800000,
+   "venue": {
+    "type": "outdoor"
+   },
+   "home": {
+    "team_id": "team_105c45ebaef69b107686ccefc31f8079",
+    "runs": 3,
+    "hits": 8,
+    "errors": 0,
+    "lineup": [{
+     "entity_id": "en_60491c37b93b9a31f1494b3360b14cf6",
+      "order": 0,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c37e9ffc7cf36670ecda3f52f5f",
+      "order": 1,
+      "inning": 0},
+     {
+      "entity_id": "en_624ddfe92abc4a1e1bbba212df8bbbfc",
+      "order": 2,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c37daac8df3dd330b17c5a0742f",
+      "order": 3,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c37989410664378bcd8318dc145",
+      "order": 4,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3766d4c78ff747a9ee13a58cfb",
+      "order": 5,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c370563a497cb40b579c3939528",
+      "order": 6,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c37a7abe8a4b06a6b5aceca2958",
+      "order": 7,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c379b9b682915257f00e387441e",
+      "order": 8,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c37065d1d1b9bb0cb20555a9d07",
+      "order": 9,
+      "inning": 0},
+     {
+      "entity_id": "en_61a77cde9132932b7683a2a4c6f0c508",
+      "order": 0,
+      "inning": 5},
+     {
+      "entity_id": "en_6151d24902a36ef69bb8ac00964001c8",
+      "order": 0,
+      "inning": 7},
+     {
+      "entity_id": "en_60491c37f407eaf5b49962f8c1da9da8",
+      "order": 0,
+      "inning": 7},
+     {
+      "entity_id": "en_60491c37bbcf8fb07748634cf436ab73",
+      "order": 0,
+      "inning": 9}]},
+   "away": {
+    "team_id": "team_ef9a42314fa75d635abfa87f4c43bb1e",
+    "runs": 1,
+    "hits": 4,
+    "errors": 0,
+    "lineup": [{
+     "entity_id": "en_60491c3f91eeafc97693739bf65d8fc9",
+      "order": 0,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3ffe262cb3c4a871005bbb3d30",
+      "order": 1,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3f880837054f7becbdb20b9165",
+      "order": 2,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3f909aa957f679001164fdffbb",
+      "order": 3,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3f583a3f60e8b1085e1ab46316",
+      "order": 4,
+      "inning": 0},
+     {
+      "entity_id": "en_609ec3dcc3c4399074d08974a78f4401",
+      "order": 5,
+      "inning": 0},
+     {
+      "entity_id": "en_624ddff289d7d6632ca526c2c56c1d94",
+      "order": 6,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3fb8105b56060f22a0cc9586b1",
+      "order": 7,
+      "inning": 0},
+     {
+      "entity_id": "en_6151d24fffdce1bf68a5ee1a16be4512",
+      "order": 8,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3fd2d27b1e9189ffbed26f08a7",
+      "order": 9,
+      "inning": 0},
+     {
+      "entity_id": "en_6151d24f7e1596c622c27bf6d8ff583b",
+      "order": 0,
+      "inning": 3},
+     {
+      "entity_id": "en_60491c3f3a69745a2905bad7d0d1f2b8",
+      "order": 0,
+      "inning": 6},
+     {
+      "entity_id": "en_60be29369b723658a33434b4b7022d5d",
+      "order": 0,
+      "inning": 7},
+     {
+      "entity_id": "en_60491c3f796b85da0c1469d02a755b61",
+      "order": 8,
+      "inning": 9}]},
+   "state": {
+    "last_inning": 9, "duration": "3:02", "double_header": "False"
+   },
+   "amount_completed": 1,
+   "status": "final",
+   "sportradar_id": "8e8e4e99-40cd-4087-b526-fe990f7fcbb2",
+   "updated_at": 1650151108168},
+  {
+   "id": "game_62388e4ed79fb7139b1c2a6db6166ddc",
+   "object": "game",
+   "name": "Braves at Padres",
+   "league": "mlb",
+   "scheduled_start": 1650139500000,
+   "venue": {
+    "type": "outdoor"
+   },
+   "home": {
+    "team_id": "team_e9b62d49e364336e5cf7be02bdf142bf",
+    "runs": 2,
+    "hits": 4,
+    "errors": 0,
+    "lineup": [{
+     "entity_id": "en_62388e70b5e9bba620bb141dc39eeceb",
+      "order": 0,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3f9863a1a58595d0b8edb39651",
+      "order": 1,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3fd29e7f3d5fa18e11e1b37436",
+      "order": 2,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3f86c43ee247e620ba772d1b02",
+      "order": 3,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3f5049a4460596358e37f3d51e",
+      "order": 4,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3d7cba0cccb9944f6b0cec8624",
+      "order": 5,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3f26391132e9a086f89dbd2055",
+      "order": 6,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3f29775757b1970193ee8e721f",
+      "order": 7,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3eb5bd5b22d418455e8c7be6c7",
+      "order": 8,
+      "inning": 0},
+     {
+      "entity_id": "en_625582ee2e65d3fe32a8bb23b2d36398",
+      "order": 9,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3fccba870d1071884e680335dd",
+      "order": 0,
+      "inning": 6},
+     {
+      "entity_id": "en_606713181a6fa06fe7b2a91652534d6e",
+      "order": 0,
+      "inning": 7},
+     {
+      "entity_id": "en_60491c3f8b0244e2276c73bc8acb2fcd",
+      "order": 8,
+      "inning": 8},
+     {
+      "entity_id": "en_60491c3f8b0244e2276c73bc8acb2fcd",
+      "order": 8,
+      "inning": 9},
+     {
+      "entity_id": "en_625582ee2e65d3fe32a8bb23b2d36398",
+      "order": 9,
+      "inning": 9}]},
+   "away": {
+    "team_id": "team_7ad53c129fddaced43027156624946c2",
+    "runs": 5,
+    "hits": 9,
+    "errors": 0,
+    "lineup": [{
+     "entity_id": "en_60491c3c7a3a339baa2c657f92fde95a",
+      "order": 0,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3c964b9c68445ff3f13a2dceed",
+      "order": 1,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3ac1891882a854edd9da62d644",
+      "order": 2,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3c1829f97bd02d56e1b13eaa21",
+      "order": 3,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3cd941109167a2ae2ddb1aa50e",
+      "order": 4,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c38d1a900cd29d8f6619a822f2c",
+      "order": 5,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3e9cec4b92b41b775e668a592f",
+      "order": 6,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3c717b9c42c03baae4f2a1c01f",
+      "order": 7,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3c1f124002693c299c0b47c933",
+      "order": 8,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3a2bee7525558ea9559bc1baf0",
+      "order": 9,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3fd6cfd7f68c9d4a98ea0cd03c",
+      "order": 0,
+      "inning": 6},
+     {
+      "entity_id": "en_60491c3c6825558a92eb4b63824e50b1",
+      "order": 0,
+      "inning": 7},
+     {
+      "entity_id": "en_60491c3c053bc7fbc5141e980933f43a",
+      "order": 4,
+      "inning": 9},
+     {
+      "entity_id": "en_60491c3c1f124002693c299c0b47c933",
+      "order": 8,
+      "inning": 9},
+     {
+      "entity_id": "en_60491c3eb99e957589e81f6cf78b150e",
+      "order": 0,
+      "inning": 9}]},
+   "state": {
+    "last_inning": 9, "duration": "2:57", "double_header": "False"
+   },
+   "amount_completed": 1,
+   "status": "final",
+   "sportradar_id": "27d6993a-572c-44d4-8909-6107f5cab6d1",
+   "updated_at": 1650150513630},
+  {
+   "id": "game_6151cb32ceff372633758e60aad864e4",
+   "object": "game",
+   "name": "Vegas Golden Knights at Edmonton Oilers",
+   "league": "nhl",
+   "scheduled_start": 1650139200000,
+   "home": {
+    "team_id": "team_6021a24ec6428eaa513a6f7d1097ce91", "points": 4},
+   "away": {
+    "team_id": "team_6021a24e145aec5dbe896688f5b052b6", "points": 0},
+   "state": {
+    "phase": "regulation", "clock": "00:00", "period": 3},
+   "amount_completed": 1,
+   "status": "final",
+   "sportradar_id": "37425f01-d778-432b-ad37-d5c49282f395",
+   "updated_at": 1650150586631},
+  {
+   "id": "game_61b0d9e7a1878a71b40c478f67a153fa",
+   "object": "game",
+   "name": "Race game_61b0d9e7a1878a71b40c478f67a153fa",
+   "league": "simulated_horse_racing",
+   "scheduled_start": 1650139200000,
+   "amount_completed": 1,
+   "status": "final",
+   "updated_at": 1650142200416},
+  {
+   "id": "game_62584360af25c05de3c0ddcc7b8de63b",
+   "object": "game",
+   "name": "Minnesota Timberwolves at Memphis Grizzlies",
+   "league": "nba",
+   "scheduled_start": 1650137400000,
+   "amount_completed": 1,
+   "status": "final",
+   "home": {
+    "team_id": "team_ee38041b627b686997c75b66a27c2d63", "points": 117},
+   "away": {
+    "team_id": "team_d83b7e99efe8e32e00e57f311b7f2474", "points": 130},
+   "state": {
+    "clock": "00:00", "quarter": 4},
+   "sportradar_id": "bc27c46e-a36e-4857-aa76-632c34fea200",
+   "updated_at": 1650149610344},
+  {
+   "id": "game_62388e4ff7ff3950a76d5fe2930c8717",
+   "object": "game",
+   "name": "Athletics at Blue Jays",
+   "league": "mlb",
+   "scheduled_start": 1650136020000,
+   "venue": {
+    "type": "retractable"
+   },
+   "home": {
+    "team_id": "team_0a8095bb4b665aa2591846e81fcebda1",
+    "runs": 5,
+    "hits": 10,
+    "errors": 0,
+    "lineup": [{
+     "entity_id": "en_60491c37115e8c2d28b2dbb426def0b7",
+      "order": 0,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3b56e480874362201db9a61b8d",
+      "order": 1,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c37e6cfbe2c22ded97d0f846eb1",
+      "order": 2,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c37c9ba17ffec937d1c1a8c148e",
+      "order": 3,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3727e6348934360acbf62890de",
+      "order": 4,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3a034529fe7544c080c40c40df",
+      "order": 5,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c397fcd6d66e23e2d5b26b5c867",
+      "order": 6,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c37501f574bec9b7d839f58e98d",
+      "order": 7,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c37df5b7080e410b74994c7961f",
+      "order": 8,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3c0d7dc51f8ed9bd749960096c",
+      "order": 9,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c372c53d576b021ce4e6d3ad7ee",
+      "order": 0,
+      "inning": 5},
+     {
+      "entity_id": "en_60491c37e8f66e95395d100ecd221e7f",
+      "order": 0,
+      "inning": 7},
+     {
+      "entity_id": "en_60491c3895cf2964989045cecc860e1c",
+      "order": 0,
+      "inning": 8},
+     {
+      "entity_id": "en_60491c37f98a10fc7e2b5b0d06ab1a98",
+      "order": 0,
+      "inning": 9},
+     {
+      "entity_id": "en_624ddfe8e685bfaa3bcd8fbef0325e06",
+      "order": 7,
+      "inning": 9},
+     {
+      "entity_id": "en_60491c379f722b501063f43304eb7230",
+      "order": 9,
+      "inning": 9}]},
+   "away": {
+    "team_id": "team_690a5a386008f85f4411b747aecdbf18",
+    "runs": 7,
+    "hits": 9,
+    "errors": 0,
+    "lineup": [{
+     "entity_id": "en_6151d24b14aff94733a9a21d65200196",
+      "order": 0,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3ac2bd1fad84897316c6892700",
+      "order": 1,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3a9ba79144fbe077a6b4ade3ec",
+      "order": 2,
+      "inning": 0},
+     {
+      "entity_id": "en_6067131533b8f95a917e92e8fe871bf9",
+      "order": 3,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3a9f74fc21e9a447dde4901687",
+      "order": 4,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3e8f1216d0d80437e7ac162574",
+      "order": 5,
+      "inning": 0},
+     {
+      "entity_id": "en_6151d248cd418e3f7851dc1585aa5f53",
+      "order": 6,
+      "inning": 0},
+     {
+      "order": 7, "inning": 0},
+     {
+      "entity_id": "en_60491c3ce6deda740819c0d4f02c0023",
+      "order": 8,
+      "inning": 0},
+     {
+      "order": 9, "inning": 0},
+     {
+      "entity_id": "en_60d4791f2bbb33ed8a5ffd6a1a8fc843",
+      "order": 0,
+      "inning": 6},
+     {
+      "entity_id": "en_625582ec43338acb0cfdf4e28fda505c",
+      "order": 0,
+      "inning": 6},
+     {
+      "entity_id": "en_60491c3a65f7217f0287a026aa7642b4",
+      "order": 9,
+      "inning": 7},
+     {
+      "entity_id": "en_60491c3a65f7217f0287a026aa7642b4",
+      "order": 9,
+      "inning": 7},
+     {
+      "entity_id": "en_60491c3a684218bebe797cae7d344420",
+      "order": 5,
+      "inning": 8},
+     {
+      "entity_id": "en_60491c3a684218bebe797cae7d344420",
+      "order": 5,
+      "inning": 8},
+     {
+      "entity_id": "en_60491c3a43622d3cea12674f64f275be",
+      "order": 0,
+      "inning": 8},
+     {
+      "entity_id": "en_60491c3a7b693917b860f572ef2dfc88",
+      "order": 6,
+      "inning": 9},
+     {
+      "entity_id": "en_60491c3ac2bd1fad84897316c6892700",
+      "order": 1,
+      "inning": 9},
+     {
+      "entity_id": "en_60491c3a7b693917b860f572ef2dfc88",
+      "order": 6,
+      "inning": 9},
+     {
+      "entity_id": "en_60491c3a1b5aa3223b3d3958db6592ca",
+      "order": 0,
+      "inning": 9}]},
+   "state": {
+    "last_inning": 9, "duration": "3:05", "double_header": "False"
+   },
+   "amount_completed": 1,
+   "status": "final",
+   "sportradar_id": "9944e5cf-2add-4653-90fd-d8ccca87679d",
+   "updated_at": 1650147489506},
+  {
+   "id": "game_6151cb321539c7ec05c790125036d06a",
+   "object": "game",
+   "name": "Minnesota Wild at St. Louis Blues",
+   "league": "nhl",
+   "scheduled_start": 1650135600000,
+   "home": {
+    "team_id": "team_6021a24e995a5ba19e3d9d587e4e3409", "points": 6},
+   "away": {
+    "team_id": "team_6021a24ecad172e2cf1933d8735e69b6", "points": 5},
+   "state": {
+    "phase": "overtime", "clock": "00:00", "period": 1},
+   "amount_completed": 1,
+   "status": "final",
+   "sportradar_id": "09ebf3f9-d2e0-4ac5-b2ab-550e5a90ddce",
+   "updated_at": 1650148489982},
+  {
+   "id": "game_62388e4e468a15f0df01375bb36da0cc",
+   "object": "game",
+   "name": "Rays at White Sox",
+   "league": "mlb",
+   "scheduled_start": 1650132600000,
+   "venue": {
+    "type": "outdoor"
+   },
+   "home": {
+    "team_id": "team_3bb1eafe2395dd351cb681ba512edff9",
+    "runs": 3,
+    "hits": 7,
+    "errors": 1,
+    "lineup": [{
+     "entity_id": "en_60491c399046793fc2aa3c67a0ddd131",
+      "order": 0,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c394052156d90d35ad7fce88ec6",
+      "order": 1,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c395513f91c1b4a421f84f0afe4",
+      "order": 2,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c39d7604647ee4b943e692dcfed",
+      "order": 3,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c397623fa5b0653a1eaf87cf0dd",
+      "order": 4,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c39ddab68cc060241a3b574e8f6",
+      "order": 5,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c39df5e8a6b076c6e50942d70dc",
+      "order": 6,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c39fd1bcf8069daab191a82880a",
+      "order": 7,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c371716b5b064a806496c6e6c3b",
+      "order": 8,
+      "inning": 0},
+     {
+      "entity_id": "en_60648e4ccf25c5c6a4a3935e2d833033",
+      "order": 9,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c39b706c4642bf083ee7c7c4da7",
+      "order": 0,
+      "inning": 6},
+     {
+      "entity_id": "en_60491c398e71516cd61b018111c64f18",
+      "order": 0,
+      "inning": 7},
+     {
+      "entity_id": "en_60491c39d095cd1029b879371a51f363",
+      "order": 9,
+      "inning": 8},
+     {
+      "entity_id": "en_61a77cde9bc93c9ece69e60c36c2e808",
+      "order": 0,
+      "inning": 8},
+     {
+      "entity_id": "en_60491c39eda080575da97ba1d94f4a39",
+      "order": 0,
+      "inning": 9}]},
+   "away": {
+    "team_id": "team_c83a2ec2a6ee8a13e74ffaf26b2eebb4",
+    "runs": 2,
+    "hits": 5,
+    "errors": 2,
+    "lineup": [{
+     "entity_id": "en_60491c3d3b1cb907c674f10951d15636",
+      "order": 0,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3fb5530769b237af6112432f68",
+      "order": 1,
+      "inning": 0},
+     {
+      "entity_id": "en_60d47923c5c55f5dcb3d8ea35bf640a2",
+      "order": 2,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3fb35ac81e68ddbc788eae64ec",
+      "order": 3,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3cdc098de343f1ee327fe10a3b",
+      "order": 4,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3ffbe1194cf440da1392d51dc9",
+      "order": 5,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3fb9eaf0595f45b0f8e7013a36",
+      "order": 6,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3f5aa00204ba3dffb14a2c494d",
+      "order": 7,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3fca243da1c3145d01c210620b",
+      "order": 8,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3f5928bd6f9b8e4e747e5516f1",
+      "order": 9,
+      "inning": 0},
+     {
+      "entity_id": "en_60491c3f80037ed801818b5dc47a75e7",
+      "order": 3,
+      "inning": 6},
+     {
+      "entity_id": "en_60491c3fda6092b2a5ab0e6111ba0c08",
+      "order": 0,
+      "inning": 6},
+     {
+      "entity_id": "en_60491c3f51df75f0583b6fdba95aeabb",
+      "order": 0,
+      "inning": 7},
+     {
+      "entity_id": "en_60648e5217fe3f9703ec47618cf7b6f0",
+      "order": 0,
+      "inning": 8},
+     {
+      "entity_id": "en_60491c3f56ff16883f2eebb77ae213c7",
+      "order": 4,
+      "inning": 9},
+     {
+      "entity_id": "en_60491c3fa756d5e143cbdd42017b5fb7",
+      "order": 8,
+      "inning": 9}]},
+   "state": {
+    "last_inning": 9, "duration": "2:50", "double_header": "False"
+   },
+   "amount_completed": 1,
+   "status": "final",
+   "sportradar_id": "0b63a49e-4184-441a-a26a-c3f55f2bb88d",
+   "updated_at": 1650143240749},
+ {"id": "game_6151d9cc0f0df1585b733bc485483bfa",
+   "object": "game",
+   "name": "Houston Rockets at Dallas Mavericks",
+   "league": "nba",
+   "scheduled_start": 1648081800000,
+   "amount_completed": 1,
+   "status": "final",
+   "home": {"team_id": "team_0aba5fce9c221722e6b28868fa646dd0", "points": 110},
+   "away": {"team_id": "team_682f0dedc9cc1e1459a84a8fa457adfa", "points": 91},
+   "state": {"clock": "00:00", "quarter": 4},
+   "sportradar_id": "8cdbfa47-582c-4f7a-ae4d-6c45dd50e5aa",
+   "updated_at": 1648090609006}]}

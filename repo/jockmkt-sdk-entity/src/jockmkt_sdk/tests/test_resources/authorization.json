@@ -1,0 +1,9 @@
+{
+        "status": "success",
+        "token": {
+            "access_token": "eyXXX",
+            "object": "session",
+            "created_at": 1653587495000,
+            "expired_at": 1650995495000
+        }
+    }
